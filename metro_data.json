@@ -1,0 +1,36 @@
+[
+    {
+        "city": "Mumbai",
+        "metroLines": [
+            {
+                "name": "Mumbai Metro One",
+                "whatsappNumber": "+919670008889",
+                "route": "Versova to Ghatkopar",
+                "line": "Blue Line"
+            },
+            {
+                "name": "Maha Mumbai Metro (Lines 2A, 7)",
+                "whatsappNumber": "+918652635500",
+                "route": "",
+                "line": "Yellow, Red Lines"
+            },
+            {
+                "name": "Mumbai Metro Line 3",
+                "whatsappNumber": "+919873016836",
+                "route": "Colaba-Bandra-SEEPZ",
+                "line": "Aqua Line"
+            }
+        ]
+    },
+    {
+        "city": "Pune",
+        "metroLines": [
+            {
+                "name": "Pune Metro",
+                "whatsappNumber": "+919420101990",
+                "route": "",
+                "line": "Purple, Aqua Lines"
+            }
+        ]
+    }
+]
